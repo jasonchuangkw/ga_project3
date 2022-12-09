@@ -1,0 +1,2255 @@
+﻿word,replacement
+10080,0
+10500,0
+10700,0
+10900,0
+11000,0
+11600,0
+11700,0
+11900,0
+12002,0
+12400,0
+12700,0
+13107,0
+15300,0
+16000,0
+16273,0
+17813,0
+18363,0
+19041,0
+19042,0
+19043,0
+19044,0
+20000,0
+21845,0
+22050,0
+23184,0
+23625,0
+25001,0
+29016,0
+32000,0
+36597,0
+Sep-02,0
+41000,0
+44000,0
+44100,0
+Sep-21,0
+Feb-22,0
+48000,0
+51515,0
+60000,0
+85125,0
+88559,0
+90000,0
+96000,0
+100000,0
+100001,0
+102406,0
+125364,0
+176000,0
+178648,0
+191206,0
+192000,0
+197043,0
+202752,0
+213480,0
+256686,0
+279264,0
+288229,0
+293207,0
+309266,0
+309308,0
+309850,0
+313515,0
+364270,0
+383847,0
+400000,0
+403965,0
+411586,0
+440203,0
+440215,0
+450000,0
+472305,0
+488946,0
+503862,0
+524288,0
+543376,0
+561328,0
+563323,0
+590718,0
+597232,0
+606208,0
+634665,0
+672073,0
+718841,0
+741343,0
+741359,0
+838383,0
+874642,0
+985727,0
+1000000,0
+1450000,0
+1925173,0
+2519604,0
+2670000,0
+2713120,0
+2717592,0
+2763690,0
+2767236,0
+2767468,0
+2768196,0
+2771188,0
+2874987,0
+3025479,0
+3940082,0
+5131737,0
+6463368,0
+6772000,0
+8763062,0
+10000000,0
+10060000,0
+5.40E+07,0
+67117319,0
+140000000,0
+140005287,0
+400678912,0
+412844032,0
+999999999,0
+1178747752,0
+1315525173,0
+2004287473,0
+2004287480,0
+2004287484,0
+2147024865,0
+2.60E+09,0
+5240352768,0
+7988271516,0
+17089896448,0
+9.35E+11,0
+9.35E+11,0
+1.50E+12,0
+1.50E+12,0
+6.00E+12,0
+6.00E+12,0
+6.39E+12,0
+6.39E+12,0
+7.60E+12,0
+7.60E+12,0
+8.80E+13,0
+8.8E+13,0
+8.80E+13,0
+1.41E+14,0
+1.41E+14,0
+4.87E+14,0
+4.87E+14,0
+4.87E+14,0
+2.48E+39,0
+9.00E+44,0
+5.60E+65,0
+_,0
+___,0
+____,0
+_____,0
+__________________________,0
+_0,0
+_01,0
+_02,0
+_03,0
+_04,0
+_05,0
+_1,0
+_10,0
+_11,0
+_13744,0
+_16gb,16gb
+_17,0
+_2,0
+_25,0
+_3,0
+_3a,3a
+_3b,3b
+_4,0
+_5,0
+_500,0
+_64,0
+_8,0
+_93333,0
+_absolute,absolute
+_access,access
+_action,action
+_add,add
+_address,address
+_alc,alc
+_allocations,allocations
+_amd64,amd64
+_architecture,architecture
+_arm64,arm64
+_autoupdates,auto updates
+_average,average
+_backup,backup
+_bad,bad
+_bassdude,bassdude
+_bc77281ec7,0
+_beats,beats
+_blank,blank
+_blue,blue
+_buffer,buffer
+_buffering,buffering
+_c,c
+_called,called
+_campaign,campaign
+_capacity,capacity
+_cc,cc
+_change,change
+_channels,channels
+_christmas,christmas
+_color,colour
+_compensation,compensation
+_compliment,compliment
+_console,console
+_control,control
+_controlsurface,control surface
+_controlvalues,controlvalues
+_copy1,copy1
+_cores,cores
+_corpse,corpse
+_crash,crash
+_crashlog,crashlog
+_create_stop_solo_mute_modes,create stop solo mute modes
+_cshd6,cshd6
+_current,current
+_d,d
+_data,data
+_date,date
+_delay,delay
+_device,device
+_devil,devil
+_engine,engine
+_ensurekeymessagesforplugins,ensure key messages for plugins
+_error,error
+_failures,failures
+_fan99723,0
+_fc1010,fc1010
+_file,file
+_fine,fine
+_finished,finished
+_flengine,fl engine
+_flengine_x64,flenginex64
+_focusriteisa,focusriteisa
+_forcegdibackend,force gdi backend
+_frame,frame
+_framework,framework
+_fwp9xyl157vzjeuxwtjmg,fwp9xyl157vzjeuxwtjmg
+_fx,fx
+_generic,generic
+_groovy,groovy
+_h,h
+_hacked,hacked
+_hhcd0,0
+_huge_,huge
+_i,i
+_id,id
+_idea,idea
+_identifier,identifier
+_in,in
+_index,index
+_inputs,input
+_install,install
+_invalid,invalid
+_io,io
+_josh,josh
+_just,just
+_k,k
+_key,key
+_kick,kick
+_kontrol,kontrol
+_last,last
+_latency,latency
+_lead,lead
+_lite,lite
+_live,live
+_loaded,loaded
+_log,log
+_longnamehere,long name here
+_m1,m1
+_machine,machine
+_macosforceopengllayer,mac os force open gl layer
+_macosx,macrosx
+_map,map
+_map8,map8
+_masterdesk,masterdesk
+_medium,medium
+_message,message
+_mid,mid
+_mini,mini
+_mixer,mixer
+_mk1,mk1
+_mk2,mk2
+_mk3,mk3
+_mkiii,mkiii
+_mode,mode
+_modes,modes
+_ms,ms
+_multicore,multicore
+_my,my
+_n,n
+_name,name
+_nativeinstruments,native instruments
+_nk2,nk2
+_notify,notify
+_novststartup,no vst startup
+_nxdomain,nxdomain
+_o,o
+_oberhausen,oberhausen
+_offset,offset
+_old,old
+_osx,osx
+_ott,ott
+_outputs,outputs
+_overtone,overtone
+_packs,packs
+_parent,parent
+_pattern,pattern
+_peak,peak
+_physical,physical
+_potatoes,potatoes
+_previous,previous
+_private,private
+_probe,probe
+_psychedelizer,psychedelizer
+_pushing,pusing
+_q,q
+_rate,rate
+_redist,redist
+_refresh,refresh
+_release,release
+_remote,remote
+_resident,resident
+_rev3,rev3
+_rewarding,rewarding
+_rewire,rewire
+_room,room
+_runtimeminimum,runtimeminimum
+_script,script
+_sharing,sharing
+_size,size
+_slaved,slaved
+_slot,slot
+_smooth,smooth
+_snare,snare
+_sometimes_,sometimes
+_song,song
+_sounds,sounds
+_source,source
+_space,space
+_specifically_,specifically
+_sse2,sse2
+_ssl9000,ssl9000
+_standalone,standalone
+_start,start
+_status,status
+_stereomaker,stereomaker
+_stop,stop
+_stop_solo_mute_modes,stop solo mute modes
+_studio,studio
+_sub,sub
+_summer,summer
+_surface,surface
+_t,t
+_t8010,t8010
+_talkie,talkie
+_task,task
+_tbool,tbool
+_tempo,tempo
+_think,think
+_time,time
+_totally_,totally
+_track,track
+_trek,trek
+_two,two
+_type,type
+_underscore,underscore
+_update,update
+_updated,updated
+_upload,upload
+_usage,usage
+_usb,usb
+_use,use
+_used,used
+_v,v
+_v1,version 1
+_v2,version_2
+_value,value
+_variant,variant
+_version,version
+_virtual,virtual
+_vst,vst
+_was,was
+_wav,wav
+_wet,wet
+_with,with
+_wordsize,wordsize
+_x,x
+_x64,x64
+_xfer,xfer
+_yonatan,yonatan
+_yyosseff_,yourself
+<,0
+>,0
+0000000000403e3e,0
+0000000000404d1f,0
+00000000004419d7,0
+00000000004422db,0
+000000000045a459,0
+00000000004f28a1,0
+00000000004f4f87,0
+00000000004f533e,0
+00000000004f552b,0
+00000000005640db,0
+0000000000564fa9,0
+0000000000568a37,0
+000000000056d6a4,0
+00000000005f179d,0
+000000000064921e,0
+000000000064ba9a,0
+00000000006f1586,0
+00000000007219d7,0
+00000000007222db,0
+0000000000766c9e,0
+00000000007d28a1,0
+00000000007d4f87,0
+00000000007d533e,0
+00000000007d552b,0
+00000000007fd5d0,0
+000000000087154e,0
+00000000008718ef,0
+00000000008d179d,0
+0000000000a5250c,0
+0000000000a5b50e,0
+0000000000a5b982,0
+0000000000add5d0,0
+0000000000b5154e,0
+0000000000b518ef,0
+0000000000b782ff,0
+0000000000d3250c,0
+0000000000d3b50e,0
+0000000000d3b982,0
+0000000000df3f1f,0
+0000000000e00757,0
+0000000000fd1c42,0
+0000000000fd26db,0
+00000000010d3f1f,0
+00000000010e0757,0
+00000000012b1c42,0
+00000000012b26db,0
+00000000018e0c28,0
+00000000018e0c98,0
+00000000018e1188,0
+0000000001e92971,0
+00000000022ef7b1,0
+00000000022f0e59,0
+00000000022f1002,0
+00000000023ead26,0
+000000000247d10c,0
+000000000247d12e,0
+000000000247dd89,0
+00000000025c1c82,0
+00000000026bdd41,0
+00000000026bed56,0
+00000000027130f0,0
+0000000002713c4a,0
+0000000002713f50,0
+00000000027140f4,0
+000000000274c9d0,0
+000000000274cdd0,0
+00000000027670ad,0
+00000000027674a8,0
+000000000276a02a,0
+000000000276a331,0
+0000000002770c28,0
+0000000002770c98,0
+000000000277133b,0
+000000000277ad26,0
+000000000280d12e,0
+00000000028475ad,0
+00000000028d0000,0
+00000000028dff00,0
+00000000029098be,0
+000000000290993c,0
+00000000029517c7,0
+00000000029519ac,0
+0000000002951c46,0
+000000000297d60c,0
+00000000029c62c6,0
+00000000029fdd73,0
+0000000002a21bbf,0
+0000000002a4dd41,0
+0000000002a4ed56,0
+0000000002aa40f4,0
+0000000002adcdd0,0
+0000000002afa02a,0
+0000000002b00c28,0
+0000000002b00c98,0
+0000000002b01188,0
+0000000002b0133b,0
+0000000002b2d694,0
+0000000002b50000,0
+0000000002bb0263,0
+0000000002bd75ad,0
+0000000002c2c12e,0
+0000000002c2c6b3,0
+0000000002c4bfdc,0
+0000000002c5aef6,0
+0000000002c95479,0
+0000000002c9575b,0
+0000000002d1ff22,0
+0000000002d22971,0
+0000000002d80000,0
+0000000002d87dc8,0
+0000000002d8dd73,0
+0000000002d91586,0
+0000000002dc1d17,0
+0000000002dc261b,0
+0000000002dd3e1e,0
+0000000002dd43e5,0
+0000000002de3729,0
+0000000002e3361b,0
+0000000002e71591,0
+0000000002e73c77,0
+0000000002f66941,0
+0000000002f83f60,0
+0000000002f84141,0
+0000000002f8429a,0
+0000000002fbc12e,0
+0000000002fbc6b3,0
+0000000002fbfe2b,0
+0000000002fc2245,0
+0000000002fc3e88,0
+0000000002fc3f89,0
+0000000002fe3b08,0
+0000000002fe3b78,0
+0000000002fe4068,0
+000000000302575b,0
+00000000030b2971,0
+0000000003175c57,0
+00000000031e42cf,0
+0000000003213a50,0
+0000000003213b48,0
+000000000338daee,0
+000000000339a4e0,0
+00000000033a687b,0
+00000000033a69fd,0
+00000000033b8772,0
+00000000033f966c,0
+00000000034c42cf,0
+000000000350e34d,0
+000000000353ae7f,0
+000000000353b6e3,0
+0000000003543bd5,0
+000000000357b1b2,0
+000000000357be75,0
+000000000365d037,0
+0000000003711c31,0
+00000000037568ec,0
+00000000037710ae,0
+00000000038294cb,0
+000000000382a59f,0
+000000000393f732,0
+0000000003a60000,0
+0000000003a6f7b1,0
+0000000003a71586,0
+0000000003a71618,0
+0000000003aa1d17,0
+0000000003aa261b,0
+0000000003b6ab76,0
+0000000003bb940c,0
+0000000003bf6ac6,0
+0000000003bfcd9c,0
+0000000003bfda19,0
+0000000003c72830,0
+0000000003ca633a,0
+0000000003ca92c5,0
+0000000003ca9532,0
+0000000003ca9615,0
+0000000003ca9d3e,0
+0000000003df69e0,0
+0000000003e03f78,0
+0000000003e03fe8,0
+0000000003e044d8,0
+000000000411c44c,0
+00000000042bd5ec,0
+00000000042c18b9,0
+00000000042c58f2,0
+00000000043d4788,0
+0000000004cc46300,0
+000000000556a0dc,0
+0000000005ce1000,0
+000000001010fd7f,0
+000000007b420000,0
+000000007b45aeb5,0
+000000007b600000,0
+000000007b62cc19,0
+000000007bc00000,0
+000000007bc5a2d3,0
+000000007eaa0000,0
+000000007eae85a2,0
+000000007eae85ae,0
+000000007eae86f0,0
+000000007ef20000,0
+000000007ef8aecf,0
+000000007ef8cea3,0
+000000007ef8dfca,0
+00000000deadbabe,0
+00000000ed7a0000,0
+00000000ed804ba8,0
+00000000ed83b1ea,0
+00000000ed83c046,0
+00000000ed83c2ff,0
+0000000100619c8d,0
+0000000106f4c000,0
+0000000106f6bb9c,0
+0000000106fa4348,0
+0000000106fa6b74,0
+0000000106fc0e30,0
+0000000106fc1734,0
+0000000106fc40c4,0
+0000000106fc5c58,0
+0000000106fc6368,0
+0000000106fcaabc,0
+00000001071f9b20,0
+0000000107325a94,0
+000000010753a25c,0
+000000010753a9bc,0
+000000012343c000,0
+000000012372f3f5,0
+0000000123733fe3,0
+0000000123734aa1,0
+00000001237397d5,0
+000000012376de8b,0
+000000012377a541,0
+000000012377e79a,0
+00000001237800bc,0
+000000013fe00000,0
+000000013ffff000,0
+0000000140003be7,0
+000000014000400b,0
+00000001400052dc,0
+0000016c,0
+000002a000000010,0
+000007ffd0a9c4a04,0
+00007ff616a40000,0
+00007ff616a43ba7,0
+00007ff616a43fcb,0
+00007ff616a45247,0
+00007ff647cd0000,0
+00007ff647cd3ba7,0
+00007ff647cd3fcb,0
+00007ff647cd5247,0
+00007ff651bb0000,0
+00007ff651bb3a66,0
+00007ff651bb3deb,0
+00007ff651bb50c6,0
+00007ff65b4f0000,0
+00007ff65b4f3ba7,0
+00007ff65b4f3fcb,0
+00007ff65b4f5247,0
+00007ff66d120000,0
+00007ff66d123ba7,0
+00007ff66d123fcb,0
+00007ff66d125247,0
+00007ff68f5d0000,0
+00007ff68f5d3ba7,0
+00007ff68f5d3fcb,0
+00007ff68f5d5247,0
+00007ff6e4ce0000,0
+00007ff6e4ce4147,0
+00007ff6e4ce458b,0
+00007ff6e4ce57d7,0
+00007ff8078c6000,0
+00007ff8078d6cf1,0
+00007ff80a3df000,0
+00007ff80a579220,0
+00007ff80a5795e1,0
+00007ff80a579ed0,0
+00007ff80ac9513d,0
+00007ff80ea8e000,0
+00007ff80eab094b,0
+00007ff80eb1470d,0
+00007ffb2b690000,0
+00007ffb2bb41010,0
+00007ffb2d620000,0
+00007ffb2d7e7253,0
+00007ffb6a850000,0
+00007ffb6a851a64,0
+00007ffb6a852aa4,0
+00007ffb6bd40000,0
+00007ffb6bd57034,0
+00007ffb6c6d0000,0
+00007ffb6c6de299,0
+00007ffb6c6de3dc,0
+00007ffb6c6de858,0
+00007ffb6c6f0bc3,0
+00007ffb6d0b0000,0
+00007ffb6d0e0939,0
+00007ffb6d101454,0
+00007ffb6d102651,0
+00007ffb6d150a44,0
+00007ffb6d150a9e,0
+00007ffb6d151f6f,0
+00007ffb6d151fef,0
+00007ffc36c5842f,0
+00007ffd92f40000,0
+00007ffd93675fc8,0
+00007ffd938acfeb,0
+00007ffdc6500000,0
+00007ffdc66b946f,0
+00007ffded250000,0
+00007ffded267974,0
+00007ffded4c0000,0
+00007ffded4d7052,0
+00007ffded4d7536,0
+00007ffdeda70000,0
+00007ffdedaca0b1,0
+00007ffe05f60000,0
+00007ffe05f6e299,0
+00007ffe05f6e858,0
+00007ffe06770000,0
+00007ffe06787034,0
+00007ffe06d70000,0
+00007ffe06dc2651,0
+00007ffe17250000,0
+00007ffe1725e299,0
+00007ffe1725e858,0
+00007ffe17470000,0
+00007ffe17487034,0
+00007ffe17950000,0
+00007ffe1799d241,0
+00007ffe8c4d0000,0
+00007ffe8c697253,0
+00007ffef3ad0000,0
+00007ffef3ae5de2,0
+00007ffef3ae63ed,0
+00007ffef3e20000,0
+00007ffef3e37bd4,0
+00007ffef5a20000,0
+00007ffef5a8ced1,0
+00007ffefd3c0000,0
+00007ffefd578553,0
+00007fff1d120000,0
+00007fff1d137034,0
+00007fff1d570000,0
+00007fff1d5c2651,0
+00007fff37330000,0
+00007fff3733e299,0
+00007fff3733e858,0
+00007fff38e20000,0
+00007fff38e37034,0
+00007fff39230000,0
+00007fff39282651,0
+0008e1a3,0
+0008ef21,0
+0008ef28,0
+0009ca87,0
+000can,0
+000eu,0
+000hz,0
+000mb,0
+000s,0
+000smp,0
+001f,0
+005r,0
+00761f21,0
+00ghz,0
+00s,0
+010x,0
+01a,0
+01v,0
+02nuwnqq35f61,0
+04i,0
+04ms,0
+04yfkjlk4gh61,0
+05i,0
+064mmypi06y81,0
+06a,0
+0a,0
+0b22,0
+0b22_2020,0
+0b26,0
+0db,0
+0dbfs,0
+0dbspl,0
+0etc5tch00961,0
+0gb,0
+0ghz,0
+0hz,0
+0kb,0
+0khz,0
+0mb,0
+0megabyte,0
+0megabytes,0
+0ms,0
+0n7i2sqoir081,0
+0oltc6lr0nv81,0
+0px,0
+0st,0
+0uz0wd7dzci61,0
+0v,0
+0w,0
+0x00000000,0
+0x0000000000000000,0
+0x0000000000000057,0
+0x0000000000000120,0
+0x0000000020cec000,0
+0x00026e16,0
+0x0003d4e9,0
+0x1,0
+0x371e2a167,0
+0x5,0
+0x60dcb763,0
+0x60dcb9c6,0
+0x70707060400,0
+0x80010135,0
+0x80091007,0
+0x800b0003,0
+0xc0000005,0
+0xc000007b,0
+0xc00007b,0
+0xfffff,0
+0xffffffe0006ec800,0
+0xffffffe000ad8548,0
+0xffffffe015ec34b0,0
+0xffffffe015ec34f0,0
+0xffffffe015ec3560,0
+0xffffffe015ec3610,0
+0xffffffe015ec3620,0
+0xffffffe015ec3990,0
+0xffffffe015ec39e0,0
+0xffffffe015ec3a00,0
+0xffffffe015ec3a30,0
+0xffffffe015ec3aa0,0
+0xffffffe015ec3b50,0
+0xffffffe015ec3be0,0
+0xffffffe015ec3c10,0
+0xffffffe015ec3c50,0
+0xffffffe015ec3c90,0
+0xfffffff027cf0000,0
+0xfffffff0285b4024,0
+0xfffffff0285b437c,0
+0xfffffff0285b46bc,0
+0xfffffff0285b4860,0
+0xfffffff0286cf770,0
+0xfffffff028aee398,0
+0xfffffff028aeeb14,0
+0xfffffff028b815d8,0
+0xfffffff028b8c514,0
+0xfffffff028ce14c8,0
+0xfffffff028d1a064,0
+0xfffffff028d1a92c,0
+0xfffffff028d1c854,0
+0xfffffff028d294fc,0
+0xfffffff0293ee974,0
+0z75mqlgxyo81,0
+0zc8jhmkh3471,0
+11_1e43a97809_2021_01_02__13_30_29,0
+15years,15 years
+16bits48000hz,16bits 48000hz
+1cameod6vfrz,0
+1w5ajd1v91a61,0
+24wi64mn3m561,0
+27_9922074e99,0
+2b0pm5b4oa291,0
+2cdic7sw33z81,0
+2fzp5lcr9kc91,0
+2mq3isctbzl81,0
+2njoy3,enjoy
+2uc0bv5xxwn71,0
+2vlue042j3n91,0
+2wjjazvmql791,0
+30jy1ahxw5381,0
+37htpqtczfe61,0
+37qah3lz3vw81,0
+3jc6e8w8qfm91,0
+3joam0a2ijr91,0
+3nco90fcwc961,0
+3p0dp8kkc2281,0
+3rvz1yrdh4o71,0
+3v92ytz9k0891,0
+3yj28cx2kkm81,0
+3zzbfarg1pc81,0
+418e40e3,0
+43x91z41o2k81,0
+44bxtbdpe5371,0
+468aedf,0
+46sl5zx8g2881,0
+4eibwqwr6go81,0
+4fus5jk2qqg81,0
+4n9wtukgxyo81,0
+4ydrxmysy4o71,0
+4zkjvug6x8p91,0
+52gm1derv7z51,0
+549981c3f5f10,0
+55_insert_5,0
+55ruvlg52h091,0
+56_insert_5,0
+56ec,0
+59a8,0
+59c8s3lcud871,0
+5a2ek29e0zy61,0
+5ccb8619234a,0
+5e41c62506e1a956dc2d54bb12f75441828ea422,0
+5gg2x120dd291,0
+5lagwan7xyo81,0
+5qpj7hpfdd161,0
+5v4r86eag2t81,0
+5xbz1su4z6a71,0
+5z3opzfol2t81,0
+649a94c3,0
+65gkg40j54y71,0
+661b4c94e7aa,0
+6bz3aggjm6f71,0
+6l1l8pzxpgt91,0
+6mdfai9r9kc91,0
+6qd0xiaiduy61,0
+6zacsiqmss781,0
+728e5a6e4dcd,0
+734o71a04rg91,0
+75co4sp2dsh71,0
+77lnahk83ng81,0
+78qwhi13de691,0
+7aj7v7i384j61,0
+7ajmzgos5oi61,0
+7qihpqadxyo81,0
+7t1faanehwm71,0
+7vz7eso2tv681,0
+7wjwhgynmlm81,0
+808s,0
+873eff595112a4cf222076341a211a2c,0
+88o2nd0u3k881,0
+9n862ymmmkp71,0
+9xqgum1csfc81,0
+9zos948nb3a61,0
+a capellas,a_capellas
+Ã ,0
+Ã s,0
+a_yyyy,0
+Ã¨ge,0
+Ã¯,0
+Ã¸,0
+à¸¡,0
+à¸¡à¹„à¸”,0
+à¸¡à¹€à¸‡,0
+à¸¡à¹€à¹€à¸¥,0
+à¸”à¹€à¸”,0
+à¸„à¸„à¸§à¸²à¸¡à¹€à¸£,0
+à¸„à¸£à¹€à¸•,0
+à¸¢à¸§à¸,0
+à¸§à¹€à¸¥,0
+à¸§à¹€à¸™,0
+à¸‡,0
+à¸•,0
+à¸•à¸Ÿà¸£,0
+à¸•à¹à¸„,0
+à¸²à¸¢à¹†à¹€à¸•,0
+à¸­à¸‡,0
+à¸ªà¸¡,0
+à¸ªà¹€à¹€à¸¥à¸°à¹€à¸„à¸£à¸”,0
+à¸šà¹€à¸£à¸²à¸¡,0
+à¸™,0
+à¸™à¹„à¸”,0
+à¸™à¹€à¸¥,0
+Ã¢me,0
+Ã¤,0
+Ã¤hh,0
+Ä±,0
+Ã§a,0
+Âµimport,0
+Ã¶,0
+a0,0
+Ã¼bersetzt,0
+a1,0
+à¹„à¸¡,0
+à¹€à¸¥à¸¢,0
+à¹€à¸§,0
+à¹€à¸•,0
+à¹€à¸Š,0
+à¹€à¸™,0
+à¹€à¹€à¸ˆà¸à¹‚à¸šà¸™,0
+a219aae0749421e7b70e86006e73589a8a54be3a,0
+a61keyboard,a61 keyboard
+aaaaages,ages
+aaaaahhhhh,ah
+aableton,ableton
+aahhhhh,ah
+aautomations,automations
+abeleton,ableton
+abelton,ableton
+abeltons,ableton
+abeton,ableton
+abledon,ableton
+ableon,ableton
+ableotn,ableton
+ableron,ableton
+ablet9n,ableton
+ableten,ableton
+ableteon,ableton
+ableto,ableton
+abletob,ableton
+abletom,ableton
+ableton,ableton
+ableton_index_pid,ableton index pid
+ableton10,ableton_10
+ableton11,ableton_11
+abletondrummer,ableton drummer
+abletonlive,ableton live
+abletonlive,ableton_live
+abletonlive11,ableton_live_11
+abletonlivelite,ableton_live_lite
+abletonproject,ableton project
+abletons,ableton
+ablteon,ableton
+ablton,ableton
+abltonpushtoeveryhome,ableton push to every home
+abou,about
+aboyt,about
+absolutly,absolutely
+absoutlely,absolutely
+acapella,a_capella
+acapellas,a_capella
+acappella,a_capella
+acappellas,a_capella
+accapellas,a_capella
+acces,0
+accieve,achieve
+accumalated,accumulated
+acheive,achieve
+achieved,achieve
+acknowldge,acknowledge
+actegory,category
+actial,actual
+actially,actually
+actio,action
+activatong,activation
+actuall,actual
+ad7f6f1c1eb537258e75d0fb09f8f746251e781e,0
+adacx78rszs81,0
+adanced,advanced
+adavance,advance
+add_listener_to_track_volume,add listener to track volume
+addons,addon
+advancedproduction,advanced production
+af,as fuck
+afterward,afterwards
+agian,again
+ahah,haha
+ahahah,haha
+ahahahha,haha
+ahahha,haha
+ahving,having
+akais,akai
+alberton,ableton
+albeton,ableton
+albleton,ableton
+albseqzj03v61,0
+allgiined,aligned
+alligns,align
+alllowed,allowed
+allyouneedislive,all you need is live
+alternatively,alternative
+alwalys,always
+alwats,always
+alway,always
+always,always
+alyways,always
+amoun,amount
+ampify,amplify
+amplifikation,amplification
+ampllitube,amplitube
+amungus,among us
+an1yone,anyone
+analise,analyse
+analisys,analysis
+analogous,analog
+analogue,analog
+analogy,analog
+analouge,analog
+anaylises,analyse
+anlogue,analog
+anolog,analog
+anoying,annoying
+anoyone,anyone
+any1,anyone
+anybodies,anybody
+anyhew,anyhow
+anymorw,any more
+anyones,anyone
+anyother,any other
+anythig,anything
+anythin,anything
+anythingelse,anything else
+anythink,anything
+anythng,anything
+anywehre,anywhere
+anywere,anywhere
+anywher,anywhere
+anywho,any who
+anywhoo,any who
+apossible,a possible
+aproach,approach
+arcturia,arturia
+arghhhh,argh
+arghhhhh,argh
+arrangementview,arrangement view
+artuia,arturia
+artutia,arturia
+asioforall,asio4all
+asks,ask
+asomebody,a somebody
+assinging,assigning
+assio4all,asio4all
+aswel,as well
+aswell,as well
+atmosphere1,atmosphere 1
+attache,attached
+attahced,attached
+attribs,attributes
+atually,actually
+audcaity,audacity
+audiodamage,audio damage
+audiodata,audio data
+audioquality,audio quality
+audiosuite,audio suite
+auhtorization,authorisation
+autmatically,automatically
+autogenerated,auto generated
+automtation,automation
+autonaming,auto naming
+awesomesauce,awesome sauce
+awesommn,awesome
+b4edd42a,0
+ba7g9so854d61,0
+ba81c7,0
+bacground,background
+bandlabs,bandlab
+bÃºho,0
+bb8862,0
+bcoz,because
+bdf3711297ea,0
+be524d2ler881,0
+becuase,because
+beeen,been
+beggining,beginning
+begining,beginning
+beginner,beginner
+beginniner,beginner
+beginning,beginning
+behaveior,behaviour
+behavior,behaviour
+behringher,behringer
+beqdqfqm51a61,0
+bettertouchtool,better touch tool
+beutiful,beautiful
+bfghmdrlgio71,0
+bgqpvh7i7ru81,0
+bigsur,big_sur
+blahblablablhblablbalblah,blah
+bn5asq89hxb61,0
+bnxp1pcuz8i61,0
+bonusquestion,bonus question
+bptv2kg0c6r71,0
+browsercontentpath,browser content path
+btw,by the way
+buckledown,buckled down
+bve74teebdd71,0
+byee,bye
+cÃ¢bles,cable
+cancun,can cun
+cement,0
+certains,certain
+challengemethod,challenge method
+chsnging,changing
+clearify,clarify
+clichÃ©,cliché
+clippinng,clipping
+clq4qclr0nv81,0
+coiuld,could
+collab,collaboration
+collaberators,collaborators
+comparible,comparable
+compesation,compensation
+completelly,completely
+completly,completely
+complexly,complexity
+connectÃ©,connect
+consistant,consistent
+constrains,constraints
+consualting,consulting
+contraseÃ±a,contrast
+controlers,controllers
+controlsurface,control surface
+controversy,controversy
+convertion,conversion
+convet,convert
+coppying,copying
+copypaste,copy paste
+coresponding,corresponding
+corrects,correct
+costumizable,customisable
+cpuwith,cpu with
+crapton,caption
+creditcard,credit card
+cutted,cut
+cycle_mode_button_color,cycle mode button colour
+Ð¿Ð»Ð°Ñ‚Ð¸Ð½Ð°,0
+Ð¿Ñ€Ð¾Ñ†ÐµÑÑÐ¾Ñ€Ð°,0
+Ð°ll,0
+Ð·,0
+d0lleywood1,0
+d0llywood1,0
+d0pm7p5ib0861,0
+dÄ›laly,0
+dÃ©clenchement,declenchement
+dannyjpegg,danny jpeg
+dawcentrix,daw centric
+decentsampler,decent sampler
+defatult,default
+deffinietely,indefinitely
+deicded,decided
+delbme0032c61,0
+deletes,delete
+depended,depend
+descript,description
+developement,development
+developper,developer
+devieces,devices
+dialouge,dialogue
+didnt,didn't
+diferrent,different
+directrly,directly
+dirrrrty,dirty
+disapears,disappear
+disconect,disconnect
+disstortion,distortion
+dm2ant80o3h61,0
+doe,does
+doesnt,doesn't
+doest,does not
+dont,don't
+dowwwwwn,down
+dreampiano,dream piano
+drenshed,drenched
+driectly,directly
+drumkits,drumkit
+drumsounds,drum sounds
+duanting,daunting
+e26f64,0
+e463,0
+eachother,each other
+earrape,ear rape
+edee29b9,0
+electronicmusic,electronic music
+emil,email
+entusiasts,enthusiast
+erfahrungen,0
+errorrrrrs,errors
+etc,et_cetera
+everyime,everytime
+exhasuting,exhausting
+exlude,exclude
+expansive,expensive
+expierienced,experienced
+explainaition,explanation
+externe,external
+f4f4f4,0
+f65krmu1va381,0
+fcking,fucking
+fckn,fucking
+fiancÃ©e,finance
+filtert,filter
+finnancial,financially
+finnishing,finishing
+flashbulb,flash bulb
+flstudios,flstudio
+folderconfigdata,folder config data
+footswitchs,footswitches
+formular,formula
+freedrumkits,free drum kits
+freeee,free
+frequncies,frequencies
+freqyt,frequent
+fuking,fucking
+funciton,function
+functio,function
+fybgja48pie61,0
+fyi,for your information
+g582fpu2khu71,0
+georg,george
+getgood,get good
+gituars,guitars
+godforsaken,god forsaken
+gonne,gone
+gotten,got
+greately,greatly
+gutiar,guitar
+guuuuuyyyysssssss,guys
+halftone,semitone
+havÃ©,0
+hdj2813c42971,0
+heey,hey
+hehem,haha
+helllooooooooo,hello
+helppppp,help
+heyheyhey,hey
+heyyo,hey
+heyyyyy,hey
+hlpp,help
+hmmmmmm,hmm
+horus,chorus
+howcan,how can
+howwwwww,how
+Ï€Î±ÏÎ±Î³Ï‰Î³Î¿Î¯,0
+Î±Ï…Ï„ÏŒ,0
+Î²Î¿Î®Î¸ÎµÎ¹Î±,0
+ide,idle
+identifyy,identify
+idk,i don’t know
+ÏƒÏ„Î¿,0
+ÏƒÏ…Î¶Î·Ï„Î¬Î¼Îµ,0
+ik,i know
+ikutlez3q7v91,0
+ill,i will
+im,i'm
+imagin,imagine
+imho,in my honest opinion
+immediatela,immediately
+immensly,immersely
+imo,in my opinion
+importqnt,important
+improv,improvise
+indepemdently,independently
+individiual,individual
+indivudals,individuals
+inevitability,inevitable
+inferface,interface
+infinitlly,infinitely
+infinte,infinite
+infintely,infinitely
+innaficient,inefficient
+instamces,instances
+insterested,interested
+instrumer,instrumentalist
+instrumernt,instrumentalist
+instumental,instrumental
+insturments,instruments
+intruiged,intrigued
+ishowu,I show you
+isnt,isn’t
+ive,I've
+jftei5mnzfe61,0
+jvw0gbnuucr91,0
+ka6j1r1a81f81,0
+keepin,keeping
+kernel_task,kernel task
+keyboarder,keyboard
+kickin,kicking
+l3dmtblgxyo81,0
+l73as2q55le61,0
+la4dkj8iida71,0
+laggs,lag
+launchcontrol,launch control
+layin,laying
+lb8l47u6c5k71,0
+legitimize,legitimize
+legth,length
+lests,let's
+letssynthesize,let us synthesize
+lfzk9y3jeop61,0
+lg44cbyl8sd71,0
+liecense,license
+lighten,lightened
+lissen,listen
+littlealterboy,little alter boy
+littleradiato,little radiator
+liveshows,live show
+llike,like
+lolll,lol
+lolololol,lol
+longgg,long
+lpddr4x,0
+maaaaaany,many
+madewithableton,made with ableton
+magnificence,magnificiant
+makevableton,make ableton
+messagemanagerlock,message manager lock
+methodic,method
+midiplayer,midi player
+midiremotescript,midi remote script
+midpart,mid part
+mixertrack,mixer track
+mixmaster,mix master
+mj68ip0v53g81,0
+mkii,mk2
+mn4leoh3don81,0
+movment,movement
+mp3s,mp3
+muliband,multiband
+multband,multiband
+musicbattlestations,music battle stations
+musicmaking,music making
+musicproducer,music producer
+musicproduction,music production
+musicproductionacademy,music production academy
+mustve,must have
+naÃ¯vetÃ©,0
+nativekontrol,native kontrol
+neewer,newer
+negitve,negative
+newb,newbie
+newschool,new school
+newsetofeyes,new set of eyes
+novatin,novation
+ns7jo4n3hg181,0
+nsert_5,insert 5
+Ø¨Ø±Ø§ÛŒ,0
+Ø¨Ø±Ø³Ø§Ù†Ø¯,0
+Ø¨Ø§,0
+Ø¨Ø§Ø´Ø¯,0
+Ø¨Ø§Ø±Ø¯Ø§Ø±,0
+Ø¨Ø¹Ø¯,0
+Ø¨Ø³ÛŒØ§Ø±,0
+Ø¨ÙˆØ¯Ù‡,0
+Ø¨Ú¯Ø°Ø§Ø±Ø¯,0
+Ø¨Ù‡,0
+Ø¨ÛŒ,0
+Ø¨ÛŒÙ…Ø§Ø±ÛŒ,0
+Ø¨ÛŒÙ…Ø§Ø±ÛŒÙ‡Ø§ÛŒ,0
+Ø¯Ø±Ø¯,0
+Ø¯Ø±Ø¯Ù‡Ø§ÛŒ,0
+Ø¯Ø±Ù…Ø§Ù†,0
+Ø¯Ø§Ø±Ø¯,0
+Ø¯Ø§Ø±Ùˆ,0
+Ø¯Ø§Ø±ÙˆØ³Ø§Ø²,0
+Ø¯Ø§Ø±ÙˆÙ‡Ø§ÛŒ,0
+Ø¯Ø§Ø±ÙˆÛŒ,0
+Ø¯Ø§ÙØ¹,0
+Ø¯Ø³ØªØ±Ø³,0
+Ø¯Ø³ØªÚ¯Ø§Ù‡,0
+Ø¯Ù„,0
+Ø¯Ú©ØªØ±,0
+Ø¯Ù†Ø¯Ø§Ù†,0
+Ø¯ÛŒÚ¯Ø±ÛŒ,0
+Ø´Ø¯Ù†,0
+Ø´ÙˆØ¯,0
+Ø´ÙˆÙ†Ø¯,0
+Ø´Ú©Ù„,0
+Ø´ÛŒØ±Ø¯Ù‡,0
+Ø¢Ø²Ù…Ø§ÛŒØ´Ø§Øª,0
+Ø¢Ø³Ù…,0
+Ø¢Ù„Ø±Ú˜ÛŒ,0
+Ø¢Ù†ÙÙ„ÙˆØ§Ù†Ø²Ø§ÛŒ,0
+Ø±Ø§,0
+Ø±Ø¹Ø§ÛŒØª,0
+Ø±ÙˆØ²Ø§Ù†Ù‡,0
+Ø±ÙˆÙ…Ø§ØªÛŒØ³Ù…,0
+Ø§Ø¯Ø±Ø§Ø±ÛŒ,0
+Ø§Ø¯ÙˆÛŒÙ‡,0
+Ø§Ø®ØªÙ„Ø§Ù„Ø§Øª,0
+Ø§Ø²,0
+Ø§Ø³Øª,0
+Ø§Ø³ØªØ§Ù…ÛŒÙ†ÙˆÙÙ†,0
+Ø§Ø³ØªÙØ§Ø¯Ù‡,0
+Ø§Ø³ÛŒØ¯,0
+Ø§ØªÙØ§Ù‚,0
+Ø§Ø­Ø³Ø§Ø³,0
+Ø§Ù„ØªÙ‡Ø§Ø¨,0
+Ø§Ù„Ú©Ù„,0
+Ø§Ù…Ø§,0
+Ø§ÙØ±Ø§Ø¯ÛŒ,0
+Ø§ÛŒÙ†Ø¬Ø§,0
+Ø¬Ø°Ø¨,0
+Ø®Ø§Øµ,0
+Ø®Ø§Ù†ÙˆØ§Ø¯Ù‡,0
+Ø®ÙˆØ¯,0
+Ø®ÙˆØ±Ø¯Ú¯ÛŒ,0
+Ø®ÙˆØ±Ø§Ú©ÛŒ,0
+Ø®ÙˆØ§Øµ,0
+Ø®ÙˆØ§Ù‡Ø¯,0
+ØµØ¯Ù…Ø§Øª,0
+ØµÙˆØ±Øª,0
+Ø·Ø±ÛŒÙ‚,0
+Ø¹Ø¶Ù„Ø§Ù†ÛŒ,0
+Ø¹ÙˆØ§Ø±Ø¶,0
+Ø²Ù…Ø§Ù†ÛŒ,0
+Ø³Ø±,0
+Ø³Ø±Ù…Ø§Ø®ÙˆØ±Ø¯Ú¯ÛŒ,0
+Ø³Ø±ÙÙ‡,0
+Ø³Ø±ÛŒØ¹,0
+Ø³ØªØ±ÛŒØ²ÛŒÙ†,0
+Ø³ÙˆØ³Ù¾Ø§Ù†Ø³ÛŒÙˆÙ†,0
+ØªØ¯Ø±ÛŒØ¬,0
+ØªØ¯Ø§Ø®Ù„Ø§Øª,0
+ØªØ¯Ø§Ø®Ù„Ø§ØªÛŒ,0
+ØªØ´Ø¯ÛŒØ¯,0
+ØªØ±Ú©ÛŒØ¨,0
+ØªØ±ÛŒÙ†,0
+ØªØ§Ø«ÛŒØ±Ø§Øª,0
+ØªØ§Ú©ÛŒØ§Ø±Ø¯ÛŒ,0
+ØªØ¬ÙˆÛŒØ²,0
+ØªØ³Ú©ÛŒÙ†,0
+ØªÙˆØ§Ù†,0
+ØªÙˆØ§Ù†Ù†Ø¯,0
+ob5y3mo8u5371,0
+objectmodel,object model
+observetransport,observe transport
+ofc,of course
+okkyyy,okay
+onlineforevermusic,online forever music
+Ø­Ø§Ù„ÛŒ,0
+ØºØ°Ø§ÛŒÛŒ,0
+opned,opened
+oroject,project
+othersamples,other samples
+Ø­ÛŒØ§ØªÛŒ,0
+outros,outro
+overexaggerating,over exaggerating
+overoptimistically,overoptimistic
+overrite,overwrite
+overwriteprotectionnumber,over write protection number
+overwritting,overwrite
+p8t5m7gdosi81,0
+p8ykbd4hy0o81,0
+pano,piano
+parametercount,parameter count
+paremater,parameter
+parsedatamodel,parse data model
+payc3f8db7891c5376d6e4af9fa408df736,0
+pccasegear,pc case gear
+pcspecialist,pc specalist
+peovide,provide
+peridot,period
+persay,per se
+perse,per se
+phenomenally,phenomenon
+pic,picture
+pilotÃ©,pilot
+piont,point
+pitchbending,pitch bending
+pitfa,pitfall
+pizzacato,pizzicato
+pj4dkn6x75u81,0
+pjeog14hhjz71,0
+pl6wjwd5sju81,0
+plasticky,plastic key
+pleaaaase,please
+pleaseeeee,please
+pleeeeassseeeee,please
+pleeeeeeease,please
+plj5e3p39s881,0
+plnh2u74f0p91,0
+pls,please
+plsss,please
+plsssss,please
+pluginboutique,plugin boutique
+plugins,plugin
+plugsins,plugin
+pluign,plugin
+plz,please
+plzz,please
+pocessed,processed
+pointblankmusicschool,point blank music school
+polysynths,polysynth
+posessions,possessions
+posibillities,possibilities
+posible,possible
+positivegrid,positive grid
+possibilites,possibilities
+possibilty,possibility
+posssible,possible
+pourrait,portrait
+powermacrocontrolindex,power macro control index
+prÃ©fÃ©rences,preferences
+pratical,practical
+preferebly,preferrably
+prefferences,preferences
+pression,precision
+prijects,projects
+prjct,project
+probabaly,probably
+probablt,probably
+probelm,problem
+problÃ¨me,probably me
+problemes,problems
+problemsolving,problem solving
+problemtic,problematic
+prodbyalien,produce by alien
+produc,produce
+produced,produce
+producedbyscar,produced by scar
+producedbyscar415,produced  by
+productio,production
+producution,production
+prodution,production
+profesionall,professional
+profesionally,professionally
+proffesional,professional
+profilename,profile name
+programcount,program count
+programdata,program data
+programfiles,program files
+programing,programming
+programm,programming
+programnumber,program number
+progroams,programs
+projectfolder,project folder
+projectname,project name
+provied,provided
+prox,proxy
+proyecto,project
+proyects,projects
+ptoducer,producer
+purchasable,can be purchased
+push2,push_2
+q3vxoq8hoqi91,0
+q43ny3g8bmu81,0
+qeustion,question
+questoined,questioned
+quickshow,quick show
+quiktime,quicktime
+r18hkrkgxyo81,0
+rÃ©cemment,recommend
+rÃ©cord,record
+rabbithole,rabbit hole
+ravb469kmko81,0
+reaaaaaly,really
+reaaaaly,really
+reaaly,really
+realased,realised
+realizzare,realized
+reall,really
+reallign,realign
+realllllly,really
+reallllly,really
+reallllyyy,really
+reallllyyyy,really
+reallly,really
+reattach,reattached
+recentely,recently
+recieving,receiving
+recomadations,recommendations
+recomendations,recommendations
+recomended,recommended
+recomending,recommending
+recomendme,recommend me
+recommending,recommending
+reconized,recognized
+reconizes,recognizes
+recordnig,recording
+redditfree,reddit free
+reddits,reddit
+redondancy,redundancy
+registred,registered
+reinstallations,reinstallation
+reponsiveness,responsiveness
+reproduire,reproduce
+reqlly,really
+rercording,rerecording
+resouces,resources
+reveerb,reverb
+reverby,reverb
+rfiyxma2fy,0
+rhoades,rhodes
+rhodiumliquidcarbon,rhodium liquid carbon
+rhythmo,rhythm
+rightclicking,right clicking
+rithm,rhythm
+rjhgdqq7v2691,0
+rn,right now
+robbectraxxx,0
+rollercoaster,roller coaster
+rtx3080ram,rtx3080 ram
+rysen,ryzen
+rzyen,ryzen
+sÃ­gnal,signal
+screenshare,screen share
+screensharing,screen sharing
+screenshoted,screen shot
+screenshotted,screen shot
+scsfhdcxms461,0
+seemlessnes,seemlessly
+sefficicent,self sufficient
+seratodjmixdj,serato dj mix dj
+seriousely,seriously
+she_has_funny_cars,she has funny cars
+shoudl,should
+showbuddy,show buddy
+showdeviceslot,show device slot
+showdeviceslots,show device slots
+showes,shows
+sidehcaining,sidechain
+signtature,signature
+simultaniously,simultaneously
+sinevibes,sine vibes
+skillful,skilful
+sloooow,slow
+smh,shaking my head
+smoothjazz,smooth jazz
+snnwrqj3cly91,0
+softwarereplica,software replica
+sollution,solution
+solun9hj23691,0
+some1,someone
+someoje,someone
+someth,something
+somethign,something
+somethimes,sometimes
+somethuing,something
+sometiems,sometimes
+somrthing,something
+somwhat,somewhat
+sonething,something
+sooo,so
+sooooo,so
+soooooo,so
+sooooooo,so
+soooooooo,so
+soud,sound
+soudns,sounds
+souds,sounds
+spaÃŸ,space
+specialise,specialised
+specifc,specific
+speciffic,specific
+specificallly,specifically
+specificity,specific
+specificks,specific
+specificly,specific
+specturm,spectrum
+spelled,spelt
+spillover,spill over
+spirtfire,spitfire
+squap,squat
+squeze,squeeze
+srssion,sessions
+srzt9gkfqv081,0
+standalones,standalone
+standardclip,standard clip
+stardard,standard
+stemverter,stem converter
+stil,still
+storageÂ¹,storage
+streamin,streaming
+studioasio,studio asio
+studiolive,studio live
+stuido,studio
+subscribtion,subscription
+subscritpion,subscription
+subscrrriiiiiibbbeeee,subscribe
+succesful,successful
+succesfully,successfully
+sucessfully,successfully
+sugestion,suggestion
+suggedt,suggest
+suggetion,suggestion
+suggetstions,suggestions
+suite_updated,suite updated
+suposed,supposed
+suppor,support
+supreme_plugin_bundles_,supreme plugin bundles
+surfacehighlight,surface highlight
+surprsingly,surprisingly
+sw7og14u1rc81,0
+switced,switched
+sxy0r2oivzo81,0
+sympa,sympathy
+synchronousaudiorouter,synchronous audio route
+synthesizerthe,synthesizer the
+synts,synth
+syrum,serum
+t65xtw5d1ec91,0
+takin,taking
+tb7iy6t2lwd81,0
+te44ir5rpqg81,0
+tearout,tear out
+technicalllyyy,technically
+technicas,technicals
+technologyÂ³,technology
+tecknique,technique
+tempochanges,tempo changes
+thÃ©,0
+thaaaaanks,thanks
+thaaanks,thanks
+thankz,thanks
+thanx,thanks
+thanxxxx,thanks
+theblueprint,the blueprint
+themididatabase,the midi database
+theory_,theory
+theyarerealafterall,they are after all
+thinked,thought
+thomannmusic,Thomann Music
+thoughs,thoughts
+thougts,thoughts
+thourgh,through
+throwaway,throw away
+thusands,thousands
+tipsandtricks,tips and tricks
+title_insert_4,title insert
+titorials,tutorials
+tittle,title
+tkthxygztap91,0
+tlac4i42mav91,0
+tm44vpp1u1p81,0
+togehter,together
+tommorow,tomorrow
+transfered,transferred
+transffering,transferring
+translatey,translate
+trebel,treble
+triend,trend
+trully,truly
+tryna,trying to
+tumbledryer,tumble dryer
+turorials,tutorials
+turotials,tutorial
+turtorials,tutorial
+twpc13a00903,0
+txpx20sggq281,0
+ty947s83wz781,0
+Ú¯Ø±Ù…,0
+Ú¯Ø±Ù…ÛŒ,0
+Ù‚Ø¨Ù„,0
+Ù‚Ø±Ø§Ø±,0
+Ù‚Ø±Øµ,0
+Ù‚Ø§Ø±Ú†ÛŒ,0
+Ù‚Ø§Ø¹Ø¯Ú¯ÛŒ,0
+Ú©Ø±Ø¯,0
+Ú©Ø§Ù‡Ø´,0
+Ú©ÙˆØ¯Ú©,0
+Ú©ÙˆÙ‡ÛŒ,0
+Ú©Ù†Ø¯,0
+Ú©Ù†Ù†Ø¯,0
+Ú©Ù†Ù†Ø¯Ù‡,0
+Ú©Ù†ÛŒØ¯,0
+Ú©Ù‡,0
+Ù…Ø´Ø§Ø¨Ù‡,0
+Ù…Ø§Ø¯Ù‡,0
+Ù…Ø§Ø±Ø¨Ø§Ú©Ø³ÛŒÙ†,0
+Ù…Ø§Ù†Ù†Ø¯,0
+Ù…Ø®Ø¯Ø±Ù‡Ø§,0
+Ù…Ø®ØªÙ„Ù,0
+Ù…ØµØ±Ù,0
+Ù…ØµØ±ÙÛŒ,0
+Ù…Ø·Ø§Ù„Ø¹Ù‡,0
+Ù…ØªØ®ØµØµ,0
+Ù…ØªÙ‚Ø§Ø¨Ù„,0
+Ù…ÙˆØ±Ø¯,0
+Ù…ÙˆØ§Ø¯,0
+Ù…ÙˆØ§Ø±Ø¯,0
+Ù…Ù…Ú©Ù†,0
+Ù…Ù†Ø¹,0
+Ù…ÙØµÙ„ÛŒ,0
+Ù…ÙÙ†Ø§Ù…ÛŒÚ©,0
+Ù…ÛŒÙ„ÛŒ,0
+Ù†Ø§Ø´ÛŒ,0
+Ù†Ø§Ù…,0
+Ù†ÙˆØ´ÛŒØ¯Ù†,0
+Ù†Ú©ØªÙ‡,0
+Ù†ÛŒØ²,0
+Ù‡Ø±Ú¯ÙˆÙ†Ù‡,0
+Ù‡Ø§,0
+Ù‡Ø§ÛŒ,0
+Ù‡Ù…,0
+Ù‡Ù…Ø¯ÛŒÚ¯Ø±,0
+Ù‡Ù…Ø±Ø§Ù‡,0
+Ù‡Ù…Ø§Ù†Ø·ÙˆØ±,0
+Ù‡Ù…Ú†Ù†ÛŒÙ†,0
+ÙØ§Ù‚Ø¯,0
+ÙÙ‚Ø±Ø§Øª,0
+Ù¾Ø§ÛŒ,0
+Ù¾Ø²Ø´Ú©,0
+u1txemrtaiu81,0
+u5d96y2whkh61,0
+u90koh7m8tq81,0
+u9c69b4nfgc91,0
+u9nszf81wku81,0
+uezu4k5zbec91,0
+ufir6y9r9kc91,0
+ugghhhh,ugh
+uiu2xwcrzp381,0
+ultrasmooth,ultra smooth
+undisired,undesired
+uneccesarry,unnecessary
+unessecarily,unnecessary
+unfortunaly,unfortunately
+unfortunatly,unfortunately
+unfortunetaly,unfortunately
+unfortuntely,unfortunately
+univrsal,universal
+unninstalled,uninstalled
+unrelible,unreliable
+unterstand,understand
+ÛŒØ§,0
+ÛŒÚ©,0
+uoxo06nk2fj81,0
+uozyc0vw5tg71,0
+updatedscript,updated script
+updatetd,updated
+uqpilh8d5sb91,0
+ur,you are
+usefull,useful
+usefullness,usefulness
+userconfig,user configuration
+utside,outside
+uwat8hehhix71,0
+v2,version_2
+valhalladelay,valhalla delay
+ve6j87v4kqt81,0
+veeery,very
+velocityinformation,velocity information
+vemsnlhfzd991,0
+vg1pl6rt39o91,0
+visualy,visually
+vqcqkrdejhu71,0
+vst2s,vst2
+vst3s,vst3
+vstanyone,vst anyone
+vsthost,vst host
+vstplugin,vst plugin
+vstplugininfo,vstplugin info
+vstplugins,vstplugin
+vstprest,vst presets
+vsts,vst
+vstss,vst
+waaaaaay,way
+waaaay,way
+waaaayyy,way
+waaay,way
+waay,way
+walkthroughs,walkthrough
+wantto,want to
+waprod_flp_progressive_house_belly,waprod flp progressive house belly
+waprod_flp_progressive_house_disk,waprod flp progressive house disk
+wasnt,wasn't
+wassup,what's up
+watup,what’s up
+wavefile,wav file
+wavescentral,waves central
+wayyy,way
+wayyyy,way
+wayyyyy,way
+wayyyyyyyyyy,way
+wazs0lxfvow91,0
+wdhegxwfbtp91,0
+wds100t2b0a,0
+wearethemusicmakers,we are the music makers
+weeknd,weekend
+werent,weren't
+whataver,whatever
+whats,what's
+whja03lr0nv81,0
+whyyyyyy,why
+winodws,windows
+wirking,working
+wisoms,wisdom
+withing,within
+withouth,without
+witht,with it
+wodnering,wondering
+wonderfull,wonderful
+wont,won't
+wooooooooow,wow
+worcking,working
+worflow,workflow
+workarounds,workaround
+workking,working
+worrrkkk,work
+woth,with
+wotking,working
+woul,would
+wouldl,would i
+wouldnt,wouldn't
+wowowowow,wow
+wrism3ghlch71,0
+wroldsen,worsen
+wtf,what the fuck
+wuestions,questions
+wvyt9m44ip981,0
+x5ap3t7ze2281,0
+x9gj26z7pd961,0
+xferrecords,xfer records
+xilence,silence
+xxw8zewj0yu81,0
+xxxbpm,bpm
+y1d3qchoxnn81,0
+ya,yeah
+yadayadayada,yada yada
+yahama,yamaha
+yahmaha,yamaha
+yall,you all
+yamah,yamaha
+yamahas,yamaha
+yas,yes
+yea,yeah
+yg65pgibs1a81,0
+ymakr01enmh61,0
+yn97xk373dz91,0
+yooo,yo
+youdontknowrecords,you don't know records
+youngboy,young boy
+youor,you or
+yousuckatproducing,you suck at producing
+youtubed,youtube
+youtuber,youtube
+youtubers,youtube
+youtubes,youtube
+youuuu,you
+yr,year
+yt,youtube
+ytk8ugbvqf881,0
+ytmp3,youtube mp3
+z0x45gvv1r281,0
+zdknf7q11nj91,0
+zgvusp9lt0i91,0
+zh9vg9ab5ct81,0
+zoomaudiodevice,zoom audio device
+zs99g8npzwy81,0
+zxcvbn,0
+TRUE,0
+ÙˆØ±Ø²Ø´Ú©Ø§Ø±Ø§Ù†,0
+ÙˆØ±Ù…,0
+ÙˆØ§Ø±ÛŒØ³ÛŒ,0
+u_u,0
+Ú¯Ø±Ø¯Ø¯,0
+Ú¯Ø±Ù…,0
+Ú¯Ø±Ù…ÛŒ,0
+Ú¯Ø±ÙØªÚ¯ÛŒ,0
+Ú¯Ø±ÙØªÙ‡,0
+Ú¯Ø°Ø§Ø±,0
+Ú¯Ø³ØªØ±Ø¯Ù‡,0
+Ú¯ÙˆØ´,0
+Ú¯ÙˆØ§Ø±Ø´,0
+Ú¯ÛŒØ±Ø¯,0
+Ú¯ÛŒØ§Ù‡,0
+Ú¯ÛŒØ§Ù‡Ø§Ù†,0
+Ù‚Ø¨Ù„,0
+Ù‚Ø±Ø§Ø±,0
+Ù‚Ø±Øµ,0
+Ù‚Ø§Ø±Ú†ÛŒ,0
+Ù‚Ø§Ø¹Ø¯Ú¯ÛŒ,0
+Ù‚Ø·Ø±Ù‡,0
+Ù‚Ø·Ø¹,0
+Ù‚Ù„Ø¨ÛŒ,0
+Ù„Ø«Ù‡,0
+Û±Û°Û°Û°,0
+Ú©Ø¨Ø¯,0
+Ú©Ø¨Ø¯ÛŒ,0
+Ú©Ø¯Ø¦ÛŒÙ†,0
+Ú©Ø±Ø¯,0
+Ú©Ø±ÙˆÙ¾,0
+Ú©Ø§Ø±Ø¨Ø±Ø¯,0
+Ú©Ø§Ø±Ø¨Ø±Ø¯Ù‡Ø§,0
+Ú©Ø§Ø±Ø¨Ø±Ø¯Ù‡Ø§ÛŒ,0
+Ú©Ø§Ø±Ø¨ÙˆÚ©ÙˆØª,0
+Ú©Ø§Ù‡Ø´,0
+Ú©ÙˆØ¯Ú©,0
+Ú©ÙˆØ¯Ú©Ø§Ù†,0
+Ú©ÙˆØ±ØªÙˆÙ†,0
+Ú©ÙˆØªØ§Ù‡,0
+Ú©ÙˆÙ‡ÛŒ,0
+Ú©Ù„ÛŒÙˆÛŒ,0
+Ú©Ù„ÛŒÚ©,0
+Ú©Ù…,0
+Ú©Ù…Ú©,0
+Ú©Ù†Ø¯,0
+Ú©Ù†Ù†Ø¯,0
+Ú©Ù†Ù†Ø¯Ù‡,0
+Ú©Ù†ÛŒØ¯,0
+Ú©Ù‡,0
+ÛµÛ°Û°,0
+Ù…Ø¨ØªÙ„Ø§,0
+Ù…Ø¯Ø§ÙˆÙ…,0
+Ù…Ø¯Øª,0
+Ù…Ø´Ø§Ø¨Ù‡,0
+Ù…Ø´Ø§ÙˆØ±Ù‡,0
+Ù…Ø´ÙˆØ±Øª,0
+Ù…Ø´Ú©Ù„Ø§Øª,0
+Ù…Ø´Ú©Ù„ÛŒ,0
+Ù…Ø±Ø¨ÙˆØ·,0
+Ù…Ø§Ø¯Ø±Ø§Ù†,0
+Ù…Ø§Ø¯Ù‡,0
+Ù…Ø§Ø±Ø¨Ø§Ú©Ø³ÛŒÙ†,0
+Ù…Ø§Ù†Ù†Ø¯,0
+Ù…Ø§Ù‡ÛŒÚ†Ù‡,0
+Ù…Ø®Ø¯Ø±Ù‡Ø§,0
+Ù…Ø®Ø±Ø¨ÛŒ,0
+Ù…Ø®ØµÙˆØµØ§,0
+Ù…Ø®ØªÙ„Ù,0
+Ù…ØµØ±Ù,0
+Ù…ØµØ±ÙÛŒ,0
+Ù…Ø·Ø§Ù„Ø¹Ù‡,0
+Ù…Ø¹Ù…ÙˆÙ„Ø§,0
+Ù…Ø³Ø¯ÙˆØ¯,0
+Ù…Ø³Ú©Ù†,0
+Ù…ØªØ®ØµØµ,0
+Ù…ØªÙˆÚ©Ø§Ø±Ø¨Ø§Ù…ÙˆÙ„,0
+Ù…ØªÙ‚Ø§Ø¨Ù„,0
+Ù…ØºØ²,0
+Ù…ÙˆØ±Ø¯,0
+Ù…ÙˆØ±ÙÛŒÙ†,0
+Ù…ÙˆØ«Ø±,0
+Ù…ÙˆØ§Ø¯,0
+Ù…ÙˆØ§Ø±Ø¯,0
+Ù…ÙˆØ¬Ø¨,0
+Ù…ÙˆØ¬ÙˆØ¯,0
+Ù…ÙˆØ¶Ø¹ÛŒ,0
+Ù…Ù‚Ø§Ø¨Ù„Ù‡,0
+Ù…Ù‚Ø§Ù„Ù‡,0
+Ù…Ù…Ú©Ù†,0
+Ù…Ù†Ø§Ø³Ø¨,0
+Ù…Ù†Ø¹,0
+Ù…Ù‡Ù…,0
+Ù…ÙØ§ØµÙ„,0
+Ù…ÙØµÙ„ÛŒ,0
+Ù…ÙÙ†Ø§Ù…ÛŒÚ©,0
+Ù…ÛŒ,0
+Ù…ÛŒØ§Ù†,0
+Ù…ÛŒØ²Ø§Ù†,0
+Ù…ÛŒÙ„ÛŒ,0
+Ù†Ø¨Ø§Ø´Ø¯,0
+Ù†Ø¨Ø§ÛŒØ¯,0
+Ù†Ø¯Ø§Ø±Ù†Ø¯,0
+Ù†Ø´ÙˆØ¯,0
+Ù†Ø¸Ø±,0
+Ú†Ø±Ø¨,0
+Ù†Ø§Ø´ÛŒ,0
+Ù†Ø§Ø±Ø§Ø­ØªÛŒ,0
+Ù†Ø§Ø±Ú©ÙˆØªÛŒÚ©,0
+Ù†Ø§Ú¯Ù‡Ø§Ù†ÛŒ,0
+Ù†Ø§Ù…,0
+Ù†ØªÛŒØ¬Ù‡,0
+Ù†ÙˆØ´ÛŒØ¯Ù†,0
+Ù†ÙˆØ´ÛŒØ¯Ù†ÛŒ,0
+Ù†Ú¯Ù‡Ø¯Ø§Ø±Ù†Ø¯Ù‡,0
+Ù†Ú©Ø§Øª,0
+Ù†Ú©ØªÙ‡,0
+Ù†Ú©Ù†ÛŒØ¯,0
+Ù†Ù…ÛŒ,0
+Ù†ÙØ®,0
+Ù†ÛŒØ´,0
+Ù†ÛŒØ²,0
+Ú†ÛŒØ³Øª,0
+Ù†ÛŒÙ…,0
+Ù‡Ø±Ú¯Ø²,0
+Ù‡Ø±Ú¯ÙˆÙ†Ù‡,0
+Ù‡Ø§,0
+Ù‡Ø§ÛŒ,0
+Ù‡Ø§ÛŒÛŒ,0
+Ù‡Ø³ØªÙ†Ø¯,0
+Ù‡ÙˆØ±Ù…ÙˆÙ†,0
+Ù‡Ù…,0
+Ù‡Ù…Ø¯ÛŒÚ¯Ø±,0
+Ù‡Ù…Ø±Ø§Ù‡,0
+Ù‡Ù…Ø§Ù†Ø·ÙˆØ±,0
+Ù‡Ù…Ú†Ù†ÛŒÙ†,0
+Ù‡Ù…Ù‡,0
+Ù‡ÙØªÙ‡,0
+Ù‡ÛŒØ¯Ø±Ø§Ù…ÛŒÙ†,0
+Ù‡ÛŒØ³ØªØ§Ù…ÛŒÙ†,0
+ÙØ§ÙˆÛŒØ³Ù…,0
+ÙØ§Ù‚Ø¯,0
+ÙÙ‚Ø±Ø§Øª,0
+ÙÛŒØ²ÛŒÙˆØªØ±Ø§Ù¾ÛŒ,0
+Ù¾Ø±Ø¯Ø§Ø²ÛŒÙ…,0
+Ù¾Ø§Ù„Ø³,0
+Ù¾Ø§ÛŒ,0
+Ù¾Ø®Ø´,0
+Ù¾Ø²Ø´Ú©,0
+Ù¾Ø²Ø´Ú©ÛŒ,0
+Ù¾Ø³ÙˆØ±ÛŒØ§Ø²ÛŒØ³,0
+Ù¾ÙˆØ³Øª,0
+Ù¾ÙˆØ³ØªÛŒ,0
+Ù¾ÙˆÙ†Ù‡,0
+Ù¾ÛŒØ´,0
+Ù¾ÛŒØ§Ù…,0
+Ù¾ÛŒÚ†,0
+Û³Û²Ûµ,0
+Û³Û²ÛµÙ…ÛŒÙ„ÛŒ,0
+u5d96y2whkh61,0
+u9c69b4nfgc91,0
+sessionautomationrecordinarmedtracksonly,session automation recording armed tracks only
+do_this_when_track_volume_changes,do this when track volume changes
+be167795841ea5d6f848888ba01ae3bb,0
+foooorrrrreeeeevvvvvveeeerrrrrr,forever
+fbbjg4310bzddbt4n408g0hc0000gn,0
+heeeeeeeeeeeeeeeeeeeeeeeeeeelp,help
+à¸ªà¹€à¹€à¸¥à¸°à¹€à¸„à¸£à¸”,0
+ensurekeymessagesforplugins,ensure key messages for plugins
+localcontrolsurfacewrapper,local control surface wrapper
+parameterslistwrapperlomid,parameters list wrapper lomid
+chukachukachukachukachuka,0
+starttransportwithrecord,start transport with record
+asio4onespecificprogram,asio4all specific program
+legacymultisampleimport,legacy multisample import
+openallactivateddevices,open all activated devices
+replacewithyourusername,replace with your username
+gratishitsbymaxforcats,gratishits by max for cats
+novstpluginstartupscan,no vst plugin start up scan
+Ø§Ø³Ù¾Ø§Ø³ÛŒØªØ³ÛŒØªÛŒ,0
+powermacromappingrange,power macro mappring range
+Ù…ØªÙˆÚ©Ø§Ø±Ø¨Ø§Ù…ÙˆÙ„,0
+ur22mkii_firmware_v104,ur22mkii firmware
+à¸„à¸„à¸§à¸²à¸¡à¹€à¸£,0
+à¹€à¹€à¸ˆà¸à¹‚à¸šà¸™,0
+drone_loop_2_124bpm_c,drone loop 2 214bpm c
+mastertrackdevicepath,master track device path
+musicsoftwaretraining,music software training
+uuuuuuuuuuuuuuuuuuuuu,0
+valhallavintagereverb,valhalla vintage reverb
+zgameeditorvisualizer,zgame editor visualizer
+audioproductiondeals,audio production deals
+Ð¿Ñ€Ð¾Ñ†ÐµÑÑÐ¾Ñ€Ð°,0
+enablearmonselection,enable armon selection
+Î¿Î½Î¿Î¼Î¬Î¶ÎµÏ„Î±Î¹,0
+kern_invalid_address,kern invalid address
+Ø¢Ù„Ù¾Ø±Ø§Ø²ÙˆÙ„Ø§Ù…,0
+Ø¢Ù†ÙÙ„ÙˆØ§Ù†Ø²Ø§ÛŒ,0
+Ø§Ø³ØªØ§Ù…ÛŒÙ†ÙˆÙÙ†,0
+Ø³Ø±Ù…Ø§Ø®ÙˆØ±Ø¯Ú¯ÛŒ,0
+Ø³ÙˆØ³Ù¾Ø§Ù†Ø³ÛŒÙˆÙ†,0
+pewwpewpewpewpewpewp,0
+set_out_hi_to_volume,set out hi to volume
+tfruityloopsmainform,fl main form
+ÙÛŒØ²ÛŒÙˆØªØ±Ø§Ù¾ÛŒ,
+valhallasupermassive,valhalla supermassive
+abletoncubasescroll,ableton cubase scroll
+branchsourcecontext,branch source context
+chasingthoughts1234,chasing thoughts
+enablemaptosiblings,enable map to siblings
+howetomakeatrapbeat,how to make trap beat
+magical8bitplug2ain,magical 8bit plugin
+mainmixingboardimpl,main mixing board
+sosouthernsoundkits,so southern sountkits
+storedallparameters,store dall parameters
+valhallavintageverb,valhalla vintage verb
+0x0000000000000000,0
+arduinoobjectmodel,0
+arrangementoverdub,0
+characteristically,0
+chrisbrownofficial,0
+documentsonline247,documents online 
+Î¿Ï„Î¹Î´Î®Ï€Î¿Ï„Îµ,0
+Ï€Î±ÏÎ±Î³Ï‰Î³Î¿Î¯,0
+magical8bitplugin2,magical 8bit plugin
+Ñ€Ð°Ð·Ð³Ñ€ÑƒÐ·ÐºÐ°,0
+noinchnoinchnoinch,no inch
+numberofparameters,number of parameters
+Ø¨ÛŒÙ…Ø§Ø±ÛŒÙ‡Ø§ÛŒ,0
+Ø¢Ù†ÙÙ„ÙˆØ§Ù†Ø²Ø§,0
+Ø±ÙˆÙ…Ø§ØªÛŒØ³Ù…ÛŒ,0
+Ø§Ø³ØªØ±ÙˆØ¦ÛŒØ¯ÛŒ,0
+shareddlls_install,share dll install
+ÙˆØ±Ø²Ø´Ú©Ø§Ø±Ø§Ù†,0
+Ú©Ø§Ø±Ø¨Ø±Ø¯Ù‡Ø§ÛŒ,0
+Ù…Ø§Ø±Ø¨Ø§Ú©Ø³ÛŒÙ†,0
+Ù†Ú¯Ù‡Ø¯Ø§Ø±Ù†Ø¯Ù‡,0
+Ù¾Ø³ÙˆØ±ÛŒØ§Ø²ÛŒØ³,0
+whippedcreamsounds,
