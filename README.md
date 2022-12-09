@@ -117,7 +117,7 @@ FL Studio tends to attract amateur music producers and they might be more likely
 
 <ins>Conclusion</ins><br>
 
-The findings confirmed some of the key differences between Ableton and FL Studio in terms of the features and user base.<br>
+The findings confirmed some of the key differences between Ableton and FL Studio in terms of the features and user base. Based on these key words, we could tell if there is a higher probability that one post belongs to r/Ableton or r/FL_Studio. All the three models have good performance but Random Forest Classifier has a slight edge over the others.<br>
 
 The findings confirmed on some of the key features of Ableton and FL Studio. The user base is likely to be different (e.g. songwriters for FL Studio).
 
