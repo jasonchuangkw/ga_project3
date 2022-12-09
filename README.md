@@ -11,7 +11,7 @@ The purpose of this project is to identify differences between these two softwar
 
 1) What are the key differences between these two softwares based on the responses from the reddit post?
 
-2) What is the occurance of specific key terms or words that are used in the industry for the respective reddit?
+2) How could one differentiate whether one post is from r/ableton or r/FL_Studio?
 
 The findings, if possible, would help young music producers decide which software is more suitable for their needs.
 
