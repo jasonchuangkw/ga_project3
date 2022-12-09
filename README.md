@@ -54,8 +54,8 @@ While we have looked into other criteria to decide which model is the best, even
 Summary of Model Evaluation<br>
 |Model|Train Cross Validation|Test Cross Validation|Accuracy|Type 1 Error|Type 2 Error|
 |:---|---:|---:|---:|---:|---:|
-|Random Forest Classifier|0.909|0.909|91%|5.1%|3.7%|
-|K-Nearest Neighbour Classifier|0.904|0.898|91%|5.0%|4.3%|
+|Random Forest Classifier|0.909|0.909|91%|5.1%|3.6%|
+|K-Nearest Neighbour Classifier|0.904|0.898|91%|4.6%|4.6%|
 |Support Vector Machines|0.894|0.882|90%|5.0%|5.0%|
 
 The findings were derived based on the sorted data from df_rf.csv (output file for Random Forest Model). Here, we zoom into a few top relevant keywords (based on importance) that appeared in both r/Ableton and r/FL_Studio.  The rank is based on importance.<br>
